@@ -7,7 +7,7 @@ AvangateRestClient.setCredentials('APITEST', 'SECRET_KEY')
 
 
 begin
-	# get a product code
+	# get an order reference
 	refNo = '44009492'
 
 	puts "Order reference: " + refNo + "\n"
