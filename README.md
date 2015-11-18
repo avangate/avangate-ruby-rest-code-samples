@@ -1,1 +1,0 @@
-# ruby-rest-code-samples
